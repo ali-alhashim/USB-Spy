@@ -1,0 +1,3 @@
+windows Run -> shell:startup
+create shourtcut in startup folder
+in it's property -> shortcut -> target - > javaw -jar C:\windows10\USBCopier.jar
